@@ -1,0 +1,44 @@
+[
+    {
+        "username": "dolika",
+        "password": "1234",
+        "age": "22",
+        "gender": "Female",
+        "city": "hyderabad"
+    },
+    {
+        "username": "sweety",
+        "password": "1234",
+        "age": "16",
+        "gender": "Female",
+        "city": "hyderabad"
+    },
+    {
+        "username": "sonu",
+        "password": "321",
+        "age": "20",
+        "gender": "Male",
+        "city": "Hyderabad"
+    },
+    {
+        "username": "divya",
+        "password": "1234",
+        "age": "15",
+        "gender": "Female",
+        "city": "Hyderabad"
+    },
+    {
+        "username": "sona kumar",
+        "password": "456",
+        "age": "15",
+        "gender": "Male",
+        "city": "Hyderabad"
+    },
+    {
+        "username": "divyanka",
+        "password": "890",
+        "age": "15",
+        "gender": "Female",
+        "city": "Amaravati"
+    }
+]
